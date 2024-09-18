@@ -45,7 +45,7 @@ Kwa mfano:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-hapo `this-is-you`tumia jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
+hapo `this-is-you`tumia jina lako la GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
 ## Unda tawi
 
@@ -76,7 +76,7 @@ Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina la
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Ikiwa unakwenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
+Ikiwa unaenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
 
 
 Ongeza mabadiliko hayo kwenye tawi ulilojenga kwa kutumia `git add` amri:
@@ -113,7 +113,7 @@ Sasa weka ombi la kuvuta.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
+Hivi karibuni nitauganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
 
 ## Wapi kutoka hapa?
 
